@@ -1,0 +1,16 @@
+.flexdiv1{
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 400%;
+    background-color: aqua;
+}
+.flexcontenedor{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div3{
+    text-align: right;
+}
+
